@@ -6,11 +6,11 @@ $(document).ready(function() {
       $(".cSharp").show();
       $(".javaScript").hide();
       $(".python").hide();
-    } else if (question3 + question5 <= 3) {
+    } else if (question3 + question5 >= 3) {
       $(".cSharp").hide();
       $(".javaScript").show();
       $(".python").hide();
-    } else if (question3 + question5 <= 4) {
+    } else if (question3 + question5 >= 4) {
       $(".cSharp").hide();
       $(".javaScript").hide();
       $(".python").show();

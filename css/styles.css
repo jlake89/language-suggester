@@ -10,15 +10,12 @@ p {
 body {
   background-color: #87CEFA;
 }
-.learnThis {
+#cSharp {
   display: none;
 }
-.cSharp {
+#javaScript {
   display: none;
 }
-.javaScript {
-  display: none;
-}
-.python {
+#python {
   display: none;
 }
