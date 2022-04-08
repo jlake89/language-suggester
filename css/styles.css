@@ -13,7 +13,7 @@ body {
 #learnThis {
   display: none
 }
-#c {
+#cSharp {
   display: none;
 }
 #javaScript {
@@ -21,4 +21,8 @@ body {
 }
 #python {
   display: none;
+}
+.answer {
+  display: flex;
+  justify-content: center;
 }
