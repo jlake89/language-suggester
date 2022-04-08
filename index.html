@@ -13,8 +13,8 @@
 <body>
   <div class="container">
   <h1>Programming Language Suggester App</h1>
-  <h2>Helping you figure out a language to learn!</h2>
-  <p>Simply answer the questions below to tell you what language to learn!</p>
+  <h2>Helping you figure out a first language to learn!</h2>
+  <p>Simply answer the questions below to tell you what language!</p>
   
   <!QUESTION ONE>
   <h3>1. What's your name:</h3>
@@ -87,7 +87,7 @@
 
 
   <!QUESTION FIVE>
-  <h3>5. coding self-confidence level:</h3>
+  <h3>5. Coding Self-Confidence Level:</h3>
   <div class="radio">
     <label>
       <input type="radio" name="level" value="ok">
@@ -108,9 +108,13 @@
   </div>
   
   <!BUTTON>
-  <button type="submit" class="btn btn-primary btn-sm">Go!</button>
+  <button type="submit" class="btn btn-primary btn-lg">Tell Me!</button>
 </form>
-<div id="output">
+<div id="output"></div>
+
+  <div id="learn-this">
+    <p>Hey! $<span id="name"></span> You should learn: </p>
+  </div>
 
 
 </div>
