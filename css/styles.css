@@ -10,19 +10,15 @@ p {
 body {
   background-color: #87CEFA;
 }
-#learnThis {
-  display: none
-}
-#cSharp {
+.learnThis {
   display: none;
 }
-#javaScript {
+.cSharp {
   display: none;
 }
-#python {
+.javaScript {
   display: none;
 }
-.answer {
-  display: flex;
-  justify-content: center;
+.python {
+  display: none;
 }
