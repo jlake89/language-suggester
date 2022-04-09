@@ -10,7 +10,7 @@ $(document).ready(function() {
       $("#cSharp").hide();
       $("#javaScript").show();
       $("#python").hide();
-    } else if (question3 + question5 === 4) {
+    } else if (question3 + question5 === 4 || 5) {
       $("#cSharp").hide();
       $("#javaScript").hide();
       $("#python").show();
