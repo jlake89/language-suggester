@@ -15,7 +15,7 @@
 
 ## Description
 
-_This project contains HTML, CSS, JavaScript, Bootstrap, and jQuery  that I used to create an app to help the user pick a coding language to learn.  Questions 3 and 6 use branching that displays the best language based on the users selctions using a ranking order._
+_This project contains HTML, CSS, JavaScript, Bootstrap, and jQuery  that I used to create an app to help the user pick a coding language to learn.  Questions 3 and 5 use branching that displays the best language based on the users selctions using a ranking order._
 
 ## GitHub Pages Link
 
